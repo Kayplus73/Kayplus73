@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kayplus
-- 👀 I’m interested in ...GitHub innovations and everything worth learning
-- 🌱 I’m currently learning ... HTML and CSS JavaScript
-- 💞️ I’m looking to collaborate on ... working on some active projects
+- 👋 Hi, I’m @Barclay
+- 👀 I’m interested in ...Smart contract development
+- 🌱 I’m currently learning ... Solidity
+- 💞️ I’m looking to collaborate on ... Blockcahin development
 - 📫 How to reach me ... leospacosterling@gmail.com
 +2348163677173 WhatsApp inclusive
 Facebook: Engr Kufreabasi Barclay
